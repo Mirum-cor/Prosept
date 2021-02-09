@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://antiseptic.alventus.by/sitemap.xml
+Host: antiseptic.alventus.by
